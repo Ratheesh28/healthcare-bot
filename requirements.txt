@@ -1,0 +1,7 @@
+
+python-telegram-bot
+pandas
+joblib
+scikit-learn
+xgboost
+numpy
